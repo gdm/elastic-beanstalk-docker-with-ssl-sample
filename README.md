@@ -16,5 +16,7 @@ and upload it to your beanstalk docker environment.
 Tested with: Elastic Beanstalk Environment Platform Docker running on 64bit Amazon Linux 2/3.4.1
 
 TODO: test docker compose https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/docker.html
+
 TODO: retrieve private keys from S3 or other external storage
+
 TODO: use github actions
